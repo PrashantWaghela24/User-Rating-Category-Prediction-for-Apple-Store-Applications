@@ -6,4 +6,4 @@ Machine Learning Algorithms and accuracy obtained:  Random Forest Classifier (86
 #
 Programming Language: Python
 #
-Tools and Methodologies Used: Data Pre-processing and Cleaning, Data Transformation, Jupyter Notebook
+Tools and Methodologies Used: Data Pre-processing and Cleaning, Data Transformation (SMOTE), Jupyter Notebook
